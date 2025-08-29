@@ -1,0 +1,33 @@
+.section2 {
+    position: relative;
+}
+
+.imgs img {
+    width: 33.33%;
+
+}
+.imgs #img1{
+   opacity: 0.8;
+}
+
+.stylebk p{
+    max-width: 20%;
+    font-size: 40px;
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    color: white;
+    text-align: center;
+}
+.stylebk h2{
+    font-size: 160px;
+    position: absolute;
+    top: 45%;
+    left: 23%;
+    color: white;
+}
+.stylebk img{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
